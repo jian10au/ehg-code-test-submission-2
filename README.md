@@ -2,7 +2,7 @@ The submission is made for EHG code test.
 
 Deployed at: https://ehg-rgb-code-test.netlify.app
 
-![alt-text](https://github.com/jian10au/ehg-code-test/blob/master/Screen%20Shot%202020-08-14%20at%202.03.04%20pm.png)
+![alt-text](https://github.com/jian10au/ehg-code-test-submission-2/blob/master/Screen%20Shot%202020-08-16%20at%207.37.25%20pm.png)
 
 * To run the app in the local environment: 
 
