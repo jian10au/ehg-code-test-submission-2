@@ -47,7 +47,7 @@ const draw = (ctx) => {
     }
   };
 
-  // for each process and starting point, check the surrounding 9 pixels and fill the surrounding pixel
+  // for point, check the surrounding 9 pixels and fill the surrounding pixel
   // if the conditions are satisfied (
   //   within the border;
   // not being itself;
@@ -107,6 +107,7 @@ const draw = (ctx) => {
     addPixel(pixel);
   }
 
+  // start the render;
   for (let i = 0; i < processes; i++) {
     proceed(i);
   }
