@@ -1,6 +1,6 @@
 The submission is made for EHG code test.
 
-Deployed at: https://ehg-rgb-code-test.netlify.app
+Deployed at: https://ehg-code-test-submission2.netlify.app/
 
 ![alt-text](https://github.com/jian10au/ehg-code-test-submission-2/blob/master/Screen%20Shot%202020-08-16%20at%207.37.25%20pm.png)
 
