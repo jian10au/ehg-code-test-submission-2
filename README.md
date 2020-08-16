@@ -1,4 +1,4 @@
-The submission is made for EHG code test.
+This is the second submission made for EHG code test.
 
 Deployed at: https://ehg-code-test-submission2.netlify.app/
 
